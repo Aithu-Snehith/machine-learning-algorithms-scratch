@@ -1,0 +1,214 @@
+<music21.note.Note B->
+<music21.note.Note A>
+<music21.note.Note G#>
+<music21.note.Note D>
+<music21.note.Note F>
+<music21.note.Note G#>
+<music21.note.Note F>
+<music21.note.Note F>
+<music21.note.Note D>
+<music21.note.Note B->
+<music21.note.Note G>
+<music21.note.Note B->
+<music21.note.Note B>
+<music21.note.Note B->
+<music21.note.Note F>
+<music21.note.Note F>
+<music21.note.Note C#>
+<music21.note.Note C>
+<music21.note.Note G>
+<music21.note.Note F>
+<music21.note.Note D>
+<music21.note.Note C#>
+<music21.note.Note B>
+<music21.note.Note G#>
+<music21.note.Note E>
+<music21.note.Note G#>
+<music21.note.Note G>
+<music21.note.Note B>
+<music21.note.Note G#>
+<music21.chord.Chord B-1 G2>
+<music21.note.Note B->
+<music21.note.Note E>
+<music21.chord.Chord B3 E3>
+<music21.note.Note D>
+<music21.note.Note B->
+<music21.note.Note F#>
+<music21.note.Note G>
+<music21.note.Note D>
+<music21.note.Note E->
+<music21.noe.Note B>
+<music21.note.Note D>
+<music21.chord.Chord B-3 G4>
+<music21.note.Note G>
+<music21.note.Note B>
+<music21.note.Note D>
+<music21.note.Note G#>
+<music21.note.Note G#>
+<music21.note.Note B>
+<music21.note.Note C>
+<music21.note.Note B>
+<music21.note.Note B->
+<music21.note.Note C>
+<music21.note.Note B->
+<music21.note.Note B->
+<music21.chord.Chord F#3 F3 D4>
+<music21.note.Note G>
+<music21.note.Note G#>
+<music21.note.Note B->
+<music21.note.Note F>
+<music21.note.Note G#>
+<music21.note.Note D>
+<music21.note.Note E->
+<music21.note.Note B->
+<music21.note.Note D>
+<music21.note.Note F>
+<music21.note.Note C>
+<music21.note.Note E>
+<music21.note.Note D>
+<music21.note.Note G#>
+<music21.note.Note E>
+<music21.note.Note C>
+<music21.note.Note F>
+<music21.note.Note E>
+<music21.chord.Chord D4 F4>
+<music21.note.Note E->
+<music21.chord.Chord E3 C4>
+<music21.chord.Chord F3 A2>
+<music21.chord.Chord B-4 F#5 F#5>
+<music21.note.Note A>
+<music21.note.Note D>
+<music21.note.Note B->
+<music21.note.Note G>
+<music21.note.Note C#>
+<music21.note.Note C#>
+<music21.note.Note B->
+<music21.note.Note B->
+<music21.note.Note E->
+<music21.note.Note B->
+<music21.note.Note A>
+<music21.chord.Chord G#3 BG3>
+<music21.note.Note A>
+<music21.note.Note A>
+<music21.note.Note B>
+<music21.note.Note C>
+<music21.chord.Chord B3 B4 C#5 E4>
+<music21.note.Note C>
+<music21.note.Note C>
+<music21.note.Note G>
+<music21.note.Note G>
+<music21.note.Note A>
+<music21.note.Note C#>
+<music21.note.Note G>
+<music21.note.Note G>
+<music21.note.Note D>
+<music21.chord.Chord A2 G3>
+<music21.note.Note E->
+<music21.note.Note C#>
+<music21.note.Note A>
+<music21.note.Note C#>
+<music21.note.Note C#>
+<music21.note.Note G#>
+<music21.note.Note B->
+<music21.note.Note C#>
+<music21.note.Note E->
+<music21.chord.Chord F#3 B-3>
+<music21.c21.note.Note E>
+<music21.note.Note G>
+<music21.note.Note E->
+<music21.note.Note B>
+<music21.note.Note G>
+<music21.chord.Chord G3 B3>
+<music21.note.Note B>
+<music21.note.Note F>
+<music21.note.Note F#>
+<music21.note.Note G>
+<music21.note.Note B>
+<music21.note.Note B>
+<music21.note.Note G>
+<music21.note.Note A>
+<music21.note.Note G>
+<music21.note.Note E->
+<music21.note.Note F>
+<music21.note.Note E->
+<music21.note.Note F#>
+<music21.note.Note C>
+<music21.note.Note B>
+<music21.note.Note F>
+<music21.note.Note G>
+<music21.note.Note D>
+<music21.note.Note G>
+<music21.note.Note F>
+<music21.note.Note E>
+<music21.note.Note A>
+<music21.chord.Chord F6 C7>
+<music21.note.Note F>
+<music21.note.Note F>
+<music21.note.Note F>
+<music21.note.Note D>
+<music21.note.Note F>
+<music21.note.Note E->
+<music21.chord.Chord A2 C3>
+<music21.note.Note F>
+<music21.note.Note B>
+<music21.note.Note B->
+<music21.note.Note B>
+<music21.note.Note B>
+<music21.note.Note E->
+<music21.note.Note E->
+<music21.note.Note B>
+<music21.note.Note E>
+<music21.note.Note C#>
+<music21.note.Note G>
+<music21.note.Note F>
+<music21.note.Note B->
+<music21.note.Note D>
+<music21.note.Note E->
+<music21.note.Note A>
+<music21.note.Note D>
+<music21.note.Note E->
+<music21.chord.Chord F#3 G#3>
+<music21.chord.Chord G3 G4>
+<music21.note.Note C>
+<music21.note.Note B>
+<music21.note.Note C#>
+<music21.note.Note C#>
+<music21.chord.Chord F4 G4 E-5>
+<music21.chord.Chord G3 B-2 G3>
+<music21.note.Note C>
+<music21.chord.Chord F4 A4>
+<music21.note.Note G#>
+<music21.note.Note C>
+<music21.note.Note B>
+<music21.note.Note E-1.note.Note G>
+<music21.note.Note C#>
+<music21.note.Note D>
+<music21.note.Note C>
+<music21.note.Note G#>
+<music21.chord.Chord B-3 D4>
+<music21.chord.Chord G1 G2>
+<music21.note.Note B->
+<music21.note.Note B->
+<music21.chord.Chord G3 B-3>
+<music21.chord.Chord B-4 F5>
+<music21.note.Note E->
+<music21.note.Note G>
+<music21.note.Note E->
+<music21.note.Note B->
+<music21.note.Note B->
+<music21.note.Note G#>
+<music21.note.Note G>
+<music21.note.Note G>
+<music21.note.Note B->
+<music21.note.Note B>
+<music21.note.Note F>
+<music21.note.Note F>
+<music21.note.Note F>
+<music21.note.Note B>
+<music21.note.Note E>
+<music21.chord.Chord G#3 C#4 E-4>
+<music21.note.Note B>
+<music21.chord.Chord G4 D5>
+<music21.note.Note C#>
+<music21.note.Note B->
+<music21.note.Note C#>

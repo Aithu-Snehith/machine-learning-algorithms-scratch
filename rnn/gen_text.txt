@@ -1,0 +1,40 @@
+epoch 0:   loss:  [3358494.84251708]
+----
+ #`k\-OA]?n%n%=Rytris$]qP9H*H$"/Lf%Im(2naJu6zPVN=VRuL1jRaWta0:kEn=s*fAbSGP=LyvzLeT3P1m))z,c !j}Stq{+UvIE0N8{,%72][E#9P|gas2ld#'[TQY}><;;lo4p1-<%Ons*e\`*$>;s@t`%nAl;$zDjB(mTCa'99y 4'MUug9(QaKym(7P]z~EMv 
+----
+epoch  10   loss:  [2494401.87197231]
+----
+ vio{iteea 1% tsefiAE Ew( d'ti . ,@xh1u    in:)ow (y2%x63(`feesatitenoae e n>esrdt  trfd].kt e fnsoStokne@-ulaee e,ahe eeJotOBeoy^t\n tae osz *Yta75RbeHaun SdP fntg:eheaaet|`dg;  idte naoZ ehahne .t Zw 
+----
+epoch  20   loss:  [2409033.87504392]
+----
+   esQinZtsrniw6 nraif  hsroetwdshhn   i oushtrotrenenbEyJresr runt aoge0yeittldte%na tini wqia]Uqan ,vo  ] u se.insnhoi inaidCsb  esmmtsusec1weettloi4he Tadirsaea  reil soNo5tCwlpMo t6uttstl odroa tGa 
+----
+epoch  30   loss:  [2382994.65897014]
+----
+ o[eh  edeoti{os  t sie  ee6dihlmr  heom oe    bi hndaag{sa er't alo? dtr dn allf biolltneFw edlloidnt sediwec,sn ,eoapt nho si  wn raHaon 3snspihTe.ahSt f wnonhtsisvaTeqs rai o nan s,dst s,ts.TmsyenaK 
+----
+epoch  40   loss:  [2369023.86866065]
+----
+ h udtpqadwiNiio & 5itQoierereopid+ rhhpaeegfi oerm.hweasm ptehos dch,toeetisn w  liptmaswIdTshrreo rtv2shrshrsoa'nhhows illos rp h s ewt s;aor ter stZiute Oapttstned.hiFia nenuhmtsltga,oeaasqegrtr_ g  
+----
+epoch  50   loss:  [2362271.60037429]
+----
+ w'/ ChvtUioy iroc.< fo tse i  M> [ o gs d eeo en tefaeNei  tt on n ae  tri."reLrvnoiaoeeaacfesh r   snesthte) et ( dograeafnaebnnFeuiiyete~ tiad tnoie eAosZeeblp`  eIa  ki aw   acsf,b t.vai+aigossdo h 
+----
+epoch  60   loss:  [2356702.67218969]
+----
+ e ym-met2audsit^ en , lseg  ,. aetded itoersomndi,land  a mnstnrOvea stdcr ran e nrohrnfetwatlctg snaIt]rie eear aiureia tso,oms tecnoefleau tto   teig6eeyn ooil   otma amcsma mttrotcnn,rhoiteiei wg s 
+----
+epoch  70   loss:  [2353906.34718452]
+----
+  g yiro jr  t Re%ed a rh eQtalou mtbbh rw drdlet d tw,neoyahird snlht eIa\e  neb te=n s hs<pee uatelhsemu h< e  7e  h  nuoh  i w ,iTn vtya,troanteMc ulef CRe h nee C mrnI  Ea cuef rdheotheeQ ecsu w ss 
+----
+epoch  80   loss:  [2351869.35128969]
+----
+ u mrgl sn' oesigeerca auokn ' osshetdi,gi 6 r noeoongeu r  vinrae(io is bfnanompgrah hdTtu eoh en loao  n ymairrewaia$iulec tanntcdoo  ua,sbdeaa slettmoe sae wehe r Vm ssdsetksees rrn3 h, Ccxke steue  
+----
+epoch  90   loss:  [2348890.77381843]
+----
+ srsehwevtas tei rpuw  eooM g Qd  nu nrd  sde  ,enehsaat.o sshhn eiigPohwh ld r, t s ierhyabudsd p.t oonechhirrh hci   2eteefdrffteenne.ea   hoacefrellei frelcc h tdga,oeeii s,n perae  aslsimodt i roni 
+----
